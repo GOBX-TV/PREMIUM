@@ -83,7 +83,7 @@ http://185.243.7.171/play/live.php?mac=00:1B:79:F9:9F:64&stream=90929&extension=
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wTGzTRHY/MBC-Action-Logo-svg.png" group-title="GOBX-MBC_NOW",mbc action HD
 http://185.243.7.171:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2112593&extension=ts&play_token=Yfenxn405P
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8zQM7Hh0/MBC-Max-logo.png" group-title="GOBX-MBC_NOW",mbc max HD
-http://185.243.7.171:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2073336&extension=ts&play_token=7eudJTgkLL
+http://185.243.7.171:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=189446&extension=ts&play_token=HVzFOGjM7X
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sDw1r4T1/MBC-Bollywood-Logo-svg.png" group-title="GOBX-MBC_NOW",mbc bollywood HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1B:79:18:6A:CD&stream=1991636&extension=ts&play_token=VfyjWrTgcu
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x1QZQLFx/images-K.png" group-title="GOBX-MBC_NOW",zee aflam
