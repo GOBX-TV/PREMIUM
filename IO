@@ -1,10 +1,28 @@
 #EXTM3U
 #EXTINF:-1 group-title="GOBX" tvg-logo="https://e.top4top.io/p_3907ta2y11.png",Gobx Premium
 https://f.top4top.io/m_39075cxu81.mp4
-#EXTINF:-1 tvg-logo="https://aloula.faulio.com/storage/mediagallery/da/6c/fullhd_7eaf7e165c4cad5b3a45eff65d2011e18be5d670.png" group-title="GOBX-ISLAMIC",Saudia Quran HD
-http://185.243.7.171/play/live.php?mac=00:1B:79:F9:9F:64&stream=7587&extension=ts&play_token=KJkAGk6jcD
-#EXTINF:-1 tvg-logo="https://aloula.faulio.com/storage/mediagallery/33/92/fullhd_879e557011826f507a045b4e0b4c3b57ba93edae.png" group-title="GOBX-ISLAMIC",Saudia Sonnah HD
-http://185.243.7.171/play/live.php?mac=00:1B:79:F9:9F:64&stream=6627&extension=ts&play_token=6ijthi8tH9
+#EXTINF:-1 tvg-logo="https://aloula.faulio.com/storage/mediagallery/da/6c/fullhd_7eaf7e165c4cad5b3a45eff65d2011e18be5d670.png" group-title="GOBX-ISLAMIC",Saudia Quran FHD
+http://185.243.7.171:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2112641&extension=ts&play_token=n8SZFeQ18f
+#EXTINF:-1 tvg-logo="https://aloula.faulio.com/storage/mediagallery/33/92/fullhd_879e557011826f507a045b4e0b4c3b57ba93edae.png" group-title="GOBX-ISLAMIC",Saudia Sonnah FHD
+http://185.243.7.171:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=807701&extension=ts&play_token=lIrHLQX71F
+#EXTINF:-1 tvg-logo="" group-title="GOBX-ISLAMIC",IQRAA HD
+http://185.243.7.171:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2021781&extension=ts&play_token=MDKsAHfEa5
+#EXTINF:-1 tvg-logo="" group-title="GOBX-ISLAMIC",QURAN ONE
+http://185.243.7.171:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2021781&extension=ts&play_token=MDKsAHfEa5
+#EXTINF:-1 tvg-logo="" group-title="GOBX-ISLAMIC",AL RESALAH HD
+http://185.243.7.171:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2112568&extension=ts&play_token=WvgMACDrVv
+#EXTINF:-1 tvg-logo="" group-title="GOBX-ISLAMIC",
+#EXTINF:-1 tvg-logo="" group-title="GOBX-ISLAMIC",ALI AL HUTHAFY QURAN
+http://185.243.7.171:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2021733&extension=ts&play_token=Qi6gE0BOP1
+#EXTINF:-1 tvg-logo="" group-title="GOBX-ISLAMIC",MISHARY ALAFASI QURAN
+http://185.243.7.171:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2021726&extension=ts&play_token=xzHUGmdk1G
+#EXTINF:-1 tvg-logo="" group-title="GOBX-ISLAMIC",ABDUL RAHMAN AL-SUDAIS QURAN
+http://185.243.7.171:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2021736&extension=ts&play_token=wSBVJpypzH
+#EXTINF:-1 tvg-logo="" group-title="GOBX-ISLAMIC",SAOUD SHURAIM QURAN
+http://185.243.7.171:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2021771&extension=ts&play_token=qbnNKYiolN
+#EXTINF:-1 tvg-logo="" group-title="GOBX-ISLAMIC",MAHER ALMAIKULAI QURAN
+http://185.243.7.171:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2021766&extension=ts&play_token=nr4htlEBZv
+#EXTINF:-1 tvg-logo="" group-title="GOBX-ISLAMIC",
 
 #EXTINF:-1 group-title="GOBX-ALGERIA" tvg-logo="https://i.postimg.cc/g0GxQ2VX/Logo-de-TV1-Algerie-(2020)-svg.png",programme nation HD
 http://185.243.7.171/play/live.php?mac=00:1B:79:F9:9F:64&stream=6724&extension=ts&play_token=OQlAmQBqFp
@@ -94,6 +112,14 @@ http://185.243.7.171:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=591478&extens
 http://185.243.7.171:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=591477&extension=ts&play_token=wTqoaMloNZ
 #EXTINF:-1 group-title="GOBX-KIDS" tvg-logo="",MASHA FHD
 http://185.243.7.171:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=587352&extension=ts&play_token=3HnupjNxVl
+#EXTINF:-1 group-title="GOBX-KIDS" tvg-logo="",BLIPPI AND FRIENDS FHD
+http://185.243.7.171:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2112556&extension=ts&play_token=bVkRyuS5pu
+#EXTINF:-1 group-title="GOBX-KIDS" tvg-logo="",DISNEY JUNIOR FHD
+http://185.243.7.171:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2112543&extension=ts&play_token=0dvhTgUtHw
+#EXTINF:-1 group-title="GOBX-KIDS" tvg-logo="",DISNEY CHANNL FHD
+http://185.243.7.171:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2112544&extension=ts&play_token=oIOmSpS1Hh
+#EXTINF:-1 group-title="GOBX-KIDS" tvg-logo="",CARTOONITO FHD
+http://185.243.7.171:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2112555&extension=ts&play_token=ZSU7noqUm5
 #EXTINF:-1 group-title="GOBX-KIDS" tvg-logo="", FHD
 #EXTINF:-1 group-title="GOBX-KIDS" tvg-logo="", FHD
 #EXTINF:-1 group-title="GOBX-KIDS" tvg-logo="", FHD
@@ -178,9 +204,11 @@ http://185.243.7.171/play/live.php?mac=00:1B:79:F9:9F:64&stream=1141578&extensio
 #EXTINF:-1 group-title="GOBX-DO MANT" tvg-logo="https://assets.bein.com/mena/sites/3/2021/02/Drama_Stacked_nov_2024_200x200.png",beIN DRAMA
 http://185.243.7.171/play/live.php?mac=00:1B:79:F9:9F:64&stream=1141577&extension=ts&play_token=ClWxidifsb
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/Star_Action_2024-200x200-1.png" group-title="GOBX-DO MANT",beIN STAR ACTION HD
-http://185.243.7.171/play/live.php?mac=00:1B:79:F9:9F:64&stream=1141570&extension=ts&play_token=HQmPzrfiYd
+http://185.243.7.171:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2112489&extension=ts&play_token=bFgpkHyIXZ
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/Star_Movies_2024-200x200-1.png" group-title="GOBX-DO MANT",beIN STAR MOVIES HD
 http://185.243.7.171/play/live.php?mac=00:1B:79:F9:9F:64&stream=1356722&extension=ts&play_token=4xLYsAGAaz
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/Star_Movies_2024-200x200-1.png" group-title="GOBX-DO MANT",beIN STAR WORLD HD
+http://185.243.7.171:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2112487&extension=ts&play_token=asQ00jMs89
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/0003_TCI_colour-Blue_UK2016.png" group-title="GOBX-DO MANT",beIN TRAVEL HD
 http://185.243.7.171/play/live.php?mac=00:1B:79:F9:9F:64&stream=1356725&extension=ts&play_token=379RBRtzK0
 #EXTINF:-1 tvg-logo="https://www.bein.com/en/wp-content/uploads/sites/3/2020/06/food-network-logo-2018-1.png" group-title="GOBX-DO MANT",beIN FOOD NITWAORK HD
@@ -198,11 +226,11 @@ http://185.243.7.171/play/live.php?mac=00:1B:79:F9:9F:64&stream=1141562&extensio
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/250px-2018_Animal_Planet_logo.svg.png" group-title="GOBX-DO MANT",beIN ANIMAL PLANET HD
 http://185.243.7.171/play/live.php?mac=00:1B:79:F9:9F:64&stream=1356726&extension=ts&play_token=rlhquasToM
 #EXTINF:-1 tvg-logo="https://mena-img-cdn-lb.aws.playco.com/admn-ingest-inhouse/ADMNNATIONALGEOGRAPHICY2025MAR/ADMNNATIONALGEOGRAPHICY2025MAR-title-logo-en.png" group-title="GOBX-DO MANT",AD Nat Geo HD
-http://185.243.7.171/play/live.php?mac=00:1B:79:F9:9F:64&stream=6586&extension=ts&play_token=RF3Cqw7n6x
+http://185.243.7.171:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2112524&extension=ts&play_token=yEinYdMqbR
 #EXTINF:-1 tvg-logo="https://www.bein.com/en/wp-content/uploads/sites/3/2020/06/Nat_geo_hd.png" group-title="GOBX-DO MANT",NATIONAL GEO HD
-http://185.243.7.171/play/live.php?mac=00:1B:79:F9:9F:64&stream=1141564&extension=ts&play_token=eE1O7IRO19
+http://185.243.7.171:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2112525&extension=ts&play_token=DQv27CwvU6
 #EXTINF:-1 tvg-logo="https://www.natgeotv.com/App_Resources2/Themes/2012/Images/Main/natgeowild.png" group-title="GOBX-DO MANT",NATIONAL GEO WILD HD
-http://185.243.7.171/play/live.php?mac=00:1B:79:F9:9F:64&stream=1141563&extension=ts&play_token=7FzPRxfqbU
+http://185.243.7.171:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2112523&extension=ts&play_token=rShMawEv8L
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2020/06/BBCEarth-new_200x200.png" group-title="GOBX-DO MANT",biIN BBC EARTH FHD
 http://185.243.7.171/play/live.php?mac=00:1B:79:F9:9F:64&stream=1141567&extension=ts&play_token=GsYAAABaGt
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nLpYbdCJ/Screenshot-2026-06-05-222420-preview-rev-1.png" group-title="GOBX-DO MANT",beIN OD MOVIES 1 HD
@@ -272,7 +300,8 @@ http://185.243.7.171:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=530384&extens
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-hadath/2ff87ec4c2f3ede35295a20637d9f8fd/index.m3u8
 #EXTINF:-1 group-title="GOBX-NEWS" tvg-logo="",AL EKHBARIYA FHD
 http://185.243.7.171:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=807702&extension=ts&play_token=B25B6OrDK1
-#EXTINF:-1 group-title="GOBX-NEWS" tvg-logo="", FHD
+#EXTINF:-1 group-title="GOBX-NEWS" tvg-logo="",AL HADATH FHD
+http://185.243.7.171:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2112576&extension=ts&play_token=u1HCuLqxoV
 #EXTINF:-1 group-title="GOBX-NEWS" tvg-logo="", FHD
 #EXTINF:-1 group-title="GOBX-NEWS" tvg-logo="", FHD
 #EXTINF:-1 group-title="GOBX-NEWS" tvg-logo="", FHD
@@ -573,4 +602,3 @@ http://185.243.7.171/play/live.php?mac=00:1B:79:F9:9F:64&stream=2081895&extensio
 http://185.243.7.171/play/live.php?mac=00:1B:79:F9:9F:64&stream=2081894&extension=ts&play_token=XtTPdXbqD1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zf6Kwy0d/TOD-by-be-IN.png" group-title="GOBX-TOD",TOD by beIN EXTRA 9
 http://185.243.7.171/play/live.php?mac=00:1B:79:F9:9F:64&stream=2081893&extension=ts&play_token=QnpLm39nJP
-
