@@ -409,17 +409,17 @@ http://185.243.7.171:80/play/live.php?mac=00:1B:79:47:82:1F&stream=1917225&exten
 #EXTINF:-1 group-title="GOBX-beIN_SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png",biIN SPORTS Global FHD
 http://185.243.7.171:80/play/live.php?mac=00:1B:79:47:82:1F&stream=1917226&extension=ts&play_token=bpKXrfB2pL
 #EXTINF:-1 group-title="GOBX-beIN_SPORTS" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 1 FHD
-https://g.top4top.io/m_3905ggynp1.mp4
+https://a.top4top.io/m_3915xrdis1.mp4
 #EXTINF:-1 group-title="GOBX-beIN_SPORTS" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png",biIN SPORTS MAX 2 FHD
-https://g.top4top.io/m_3905ggynp1.mp4
+https://a.top4top.io/m_3915xrdis1.mp4
 #EXTINF:-1 group-title="GOBX-beIN_SPORTS" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX3_DIGITAL_Mono.png",biIN SPORTS MAX 3 FHD
-https://g.top4top.io/m_3905ggynp1.mp4
+https://a.top4top.io/m_3915xrdis1.mp4
 #EXTINF:-1 group-title="GOBX-beIN_SPORTS" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png",biIN SPORTS MAX 4 FHD
-https://g.top4top.io/m_3905ggynp1.mp4
+https://a.top4top.io/m_3915xrdis1.mp4
 #EXTINF:-1 group-title="GOBX-beIN_SPORTS" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/NEW_beIN-SPORTS-MAX-05.png",biIN SPORTS MAX 5 FHD
-https://g.top4top.io/m_3905ggynp1.mp4
+https://a.top4top.io/m_3915xrdis1.mp4
 #EXTINF:-1 group-title="GOBX-beIN_SPORTS" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/NEW_beIN-SPORTS-MAX-06.png",biIN SPORTS MAX 6 FHD
-https://g.top4top.io/m_3905ggynp1.mp4
+https://a.top4top.io/m_3915xrdis1.mp4
 #EXTINF:-1 group-title="GOBX-beIN_SPORTS" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png",biIN SPORTS 1 FHD
 http://185.243.7.171:80/play/live.php?mac=00:1B:79:47:82:1F&stream=1917224&extension=ts&play_token=x8i583xBqk
 #EXTINF:-1 group-title="GOBX-beIN_SPORTS" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS2_DIGITAL_Mono.png",biIN SPORTS 2 FHD
@@ -431,7 +431,7 @@ http://185.243.7.171:80/play/live.php?mac=00:1B:79:47:82:1F&stream=1917221&exten
 #EXTINF:-1 group-title="GOBX-beIN_SPORTS" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS5_DIGITAL_Mono.png",biIN SPORTS 5 FHD
 http://185.243.7.171:80/play/live.php?mac=00:1B:79:47:82:1F&stream=1917220&extension=ts&play_token=Y2jSHN8uw3
 #EXTINF:-1 group-title="GOBX-beIN_SPORTS" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS6_DIGITAL_Mono-d-1.png",biIN SPORTS 6 FHD
-
+https://a.top4top.io/m_3915xrdis1.mp4
 #EXTINF:-1 group-title="GOBX-beIN_SPORTS" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS7_DIGITAL_Mono.png",biIN SPORTS 7 FHD
 http://185.243.7.171:80/play/live.php?mac=00:1B:79:47:82:1F&stream=1917218&extension=ts&play_token=HS1Sg1k1qB
 #EXTINF:-1 group-title="GOBX-beIN_SPORTS" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS8.png",biIN SPORTS 8 FHD
@@ -456,7 +456,7 @@ http://185.243.7.171:80/play/live.php?mac=00:1B:79:47:82:1F&stream=1917212&exten
 #EXTINF:-1 group-title="GOBX-beIN_SPORTS" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS5_DIGITAL_Mono.png",biIN SPORTS 5 HD
 http://185.243.7.171:80/play/live.php?mac=00:1B:79:47:82:1F&stream=1917211&extension=ts&play_token=nv4REOa7qo
 #EXTINF:-1 group-title="GOBX-beIN_SPORTS" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS6_DIGITAL_Mono-d-1.png",biIN SPORTS 6 HD
-
+https://a.top4top.io/m_3915xrdis1.mp4
 #EXTINF:-1 group-title="GOBX-beIN_SPORTS" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS7_DIGITAL_Mono.png",biIN SPORTS 7 HD
 http://185.243.7.171:80/play/live.php?mac=00:1B:79:47:82:1F&stream=1917209&extension=ts&play_token=EpRZcyAJWL
 #EXTINF:-1 group-title="GOBX-beIN_SPORTS" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS8.png",biIN SPORTS 8 HD
@@ -481,7 +481,7 @@ http://185.243.7.171:80/play/live.php?mac=00:1B:79:47:82:1F&stream=1917194&exten
 #EXTINF:-1 group-title="GOBX-beIN_SPORTS" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS5_DIGITAL_Mono.png",biIN SPORTS 5 SD
 http://185.243.7.171:80/play/live.php?mac=00:1B:79:47:82:1F&stream=1917193&extension=ts&play_token=Sltyri9eLg
 #EXTINF:-1 group-title="GOBX-beIN_SPORTS" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS6_DIGITAL_Mono-d-1.png",biIN SPORTS 6 SD
-
+https://a.top4top.io/m_3915xrdis1.mp4
 #EXTINF:-1 group-title="GOBX-beIN_SPORTS" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS7_DIGITAL_Mono.png",biIN SPORTS 7 SD
 http://185.243.7.171:80/play/live.php?mac=00:1B:79:47:82:1F&stream=1917191&extension=ts&play_token=B94DM2RAOg
 #EXTINF:-1 group-title="GOBX-beIN_SPORTS" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS8.png",biIN SPORTS 8 SD
@@ -490,23 +490,12 @@ http://185.243.7.171:80/play/live.php?mac=00:1B:79:47:82:1F&stream=1917190&exten
 http://185.243.7.171:80/play/live.php?mac=00:1B:79:47:82:1F&stream=1917189&extension=ts&play_token=YQob55ZBro
 
 #EXTINF:-1, ══════════════════beIN SPORTS G═════════════════════
+https://a.top4top.io/m_3915xrdis1.mp4
 
 #EXTINF:-1 group-title="GOBX-beIN_SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/NEWS_DIGITAL_Mono.png",biIN SPORTS NEWS G FHD
 http://185.243.7.171:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1330455&extension=ts&play_token=DqWl5NJgpj
 #EXTINF:-1 group-title="GOBX-beIN_SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png",biIN SPORTS Global G FHD
 http://185.243.7.171:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1411397&extension=ts&play_token=UT1U6E2KCD
-#EXTINF:-1 group-title="GOBX-beIN_SPORTS" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 1 G FHD
-https://g.top4top.io/m_3905ggynp1.mp4
-#EXTINF:-1 group-title="GOBX-beIN_SPORTS" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png",biIN SPORTS MAX 2 G FHD
-https://g.top4top.io/m_3905ggynp1.mp4
-#EXTINF:-1 group-title="GOBX-beIN_SPORTS" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX3_DIGITAL_Mono.png",biIN SPORTS MAX 3 G FHD
-https://g.top4top.io/m_3905ggynp1.mp4
-#EXTINF:-1 group-title="GOBX-beIN_SPORTS" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png",biIN SPORTS MAX 4 G FHD
-https://g.top4top.io/m_3905ggynp1.mp4
-#EXTINF:-1 group-title="GOBX-beIN_SPORTS" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/NEW_beIN-SPORTS-MAX-05.png",biIN SPORTS MAX 5 G FHD
-https://g.top4top.io/m_3905ggynp1.mp4
-#EXTINF:-1 group-title="GOBX-beIN_SPORTS" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/NEW_beIN-SPORTS-MAX-06.png",biIN SPORTS MAX 6 G FHD
-https://g.top4top.io/m_3905ggynp1.mp4
 #EXTINF:-1 group-title="GOBX-beIN_SPORTS" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png",biIN SPORTS 1 G FHD
 http://185.243.7.171:80/play/live.php?mac=00:1B:79:47:82:1F&stream=1411383&extension=ts&play_token=yBMnk5C1yU
 #EXTINF:-1 group-title="GOBX-beIN_SPORTS" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS2_DIGITAL_Mono.png",biIN SPORTS 2 G FHD
